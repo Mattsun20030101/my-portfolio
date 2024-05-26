@@ -1,0 +1,179 @@
+
+.list {
+    display: flex;
+    justify-content: right;
+    position: absolute;
+    top: 0;
+    right: 0;
+    position: fixed;
+
+}
+header li {
+    display: flex;
+    padding-right: 1rem;
+    align-items: top;
+    cursor: pointer;
+}
+header {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: skyblue;
+    padding: 2rem;
+    font-size: 2rem;
+}
+.pic {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.My-profile {
+    color: rgb(255, 8, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    font-family: fantasy;
+
+    padding: 1rem;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; 
+}
+.Myprofile-container {
+    width: 45%;
+    margin-bottom: 4rem;
+}
+.name {
+    font-size: 50px;
+    font-weight: 900;
+}
+.content {
+    font-size: 25px;
+    font-weight: 600;
+}
+.k-pop {
+    color: rgb(255, 8, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    font-family: fantasy;
+
+    padding: 1rem;
+
+}
+.Kpop-artist {
+    width: 50rem;
+    height: 30rem;
+    margin-left: 300px;
+    margin-top: 25px;
+}
+.My-secondhobby {
+    color: rgb(255, 8, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    font-family: fantasy;
+
+    padding: 1rem;
+}
+.clover {
+    width: 50rem;
+    height: 30rem;
+    margin-left: 300px;
+    margin-top: 25px;
+}
+.Myactualsituation {
+    color: rgb(255, 8, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    font-family: fantasy;
+
+    padding: 1rem;
+    font-size: 2rem;
+}
+.ending-comment {
+    color: rgb(255, 8, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    font-family: fantasy;
+
+    padding: 1rem;
+}
+.artist {
+    
+    font-size: 50px;
+    font-weight: 900;
+
+    padding-left: 19.5rem;
+}
+.artist-a {
+    font-size: 25px;
+    font-weight: 600;
+}
+.artist-b {
+    font-size: 25px;
+    font-weight: 600;
+}
+.comic-book {
+    font-size: 50px;
+    font-weight: 900;
+
+    padding-left: 28rem;
+}
+.comic-book-a {
+    font-size: 25px;
+    font-weight: 600;
+
+    padding-left: 22rem;
+}
+.quiz-mypresentplace{
+    font-size: 30px;
+    font-weight: 900;
+
+    padding-left: 30rem;
+}
+
+button{
+    width: 30%;
+    background-color: greenyellow;
+    font-size: 20px;
+    font-weight: 900;
+    margin-left: 20px;
+}
+.feedback {
+    font-size: 20px;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+}
+.comment {
+    font-size: 20px;
+    font-weight: 600;
+
+    padding-left: 26rem;
+}
+.comment-a {
+    font-size: 20px;
+    font-weight: 600;
+
+    padding-left: 33rem;
+}
+
+
+
+
+
+
+
