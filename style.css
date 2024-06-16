@@ -67,10 +67,12 @@ header {
 
 }
 .Kpop-artist {
-    width: 50rem;
-    height: 30rem;
-    margin-left: 300px;
-    margin-top: 25px;
+    width: 40rem;
+    height: 25rem;
+    margin: 25px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .My-secondhobby {
     color: rgb(255, 8, 0);
@@ -83,10 +85,12 @@ header {
     padding: 1rem;
 }
 .clover {
-    width: 50rem;
-    height: 30rem;
-    margin-left: 300px;
-    margin-top: 25px;
+    width: 40rem;
+    height: 25rem;
+    margin: 25px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .Myactualsituation {
     color: rgb(255, 8, 0);
@@ -114,7 +118,7 @@ header {
     font-size: 50px;
     font-weight: 900;
 
-    padding-left: 19.5rem;
+    text-align: center;
 }
 .artist-a {
     font-size: 25px;
@@ -128,19 +132,19 @@ header {
     font-size: 50px;
     font-weight: 900;
 
-    padding-left: 28rem;
+    text-align: center;
 }
 .comic-book-a {
     font-size: 25px;
     font-weight: 600;
 
-    padding-left: 22rem;
+    text-align: center;
 }
 .quiz-mypresentplace{
     font-size: 30px;
     font-weight: 900;
 
-    padding-left: 30rem;
+    text-align: center;
 }
 
 button{
@@ -148,7 +152,7 @@ button{
     background-color: greenyellow;
     font-size: 20px;
     font-weight: 900;
-    margin-left: 20px;
+    text-align: center;
 }
 .feedback {
     font-size: 20px;
@@ -162,13 +166,13 @@ button{
     font-size: 20px;
     font-weight: 600;
 
-    padding-left: 26rem;
+    text-align: center;
 }
 .comment-a {
     font-size: 20px;
     font-weight: 600;
 
-    padding-left: 33rem;
+    text-align: center;
 }
 
 
